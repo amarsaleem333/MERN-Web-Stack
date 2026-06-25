@@ -1,2 +1,0 @@
-# MERN-Web-Stack
-FOR PROJECT 3
